@@ -676,7 +676,6 @@ img {
   line-height: 1.17;
   letter-spacing: 0.04em;
   color: #8e8f99;
-  display: flex;
   align-items: center;
 }
 .imput-modal-link {
@@ -684,7 +683,6 @@ img {
   text-decoration: underline;
   text-decoration-skip-ink: none;
   color: #4d5ae5;
-  margin-left: 4px;
 }
 .modal-check-span {
   display: inline-flex;
@@ -692,7 +690,6 @@ img {
   height: 16px;
   border-radius: 2px;
   border: 1px solid rgba(46, 47, 66, 0.4);
-  display: flex;
   fill: transparent;
   margin-right: 8px;
   justify-content: center;
